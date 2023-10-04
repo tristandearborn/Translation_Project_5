@@ -1,4 +1,4 @@
-# Translatr Project
+# Translator Project
 
 This is a translator made in Android Studio with Kotlin. Automatically translates words to another language.
 
@@ -7,9 +7,9 @@ This is a translator made in Android Studio with Kotlin. Automatically translate
 The following **required** functionality is completed:
 
 * [ ] User can choose what initial language they are typing in.
-* [ ] User can choose 
-* [ ] User can clear the screen with the C operation.
-* [ ] User can click the equals operation to complete the calculations.
+* [ ] User can choose what language they want to translate to.
+* [ ] User can type any words they want to be translated.
+* [ ] User can see the translations in real tim.
 
 The following **extensions** are implemented:
 
